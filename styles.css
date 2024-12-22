@@ -6,7 +6,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: linear-gradient(135deg, #f5a623, #f76c6c);
+  background: linear-gradient(135deg, #2AB2BF, #00A09C);
   color: #fff;
 }
 
@@ -16,7 +16,7 @@ body {
 }
 
 .quote-box {
-  max-width: 500px;
+  max-width: 400px;
   margin: auto;
   background: rgba(0, 0, 0, 0.7);
   padding: 20px;
